@@ -1,0 +1,4 @@
+R5T.NetStandard.ServicedContext.Construction - A construction console entry-point for the R5T.NetStandard.ServicedContext library (A library containing the ServicedContext type and related functionality.).
+
+Goals
+
